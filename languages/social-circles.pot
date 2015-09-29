@@ -1,0 +1,129 @@
+# Copyright (C) 2015 Brian Gardner
+# This file is distributed under the GNU General Public License v2.0 (or later).
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Circles 0.9.1\n"
+"Report-Msgid-Bugs-To: StudioPress <translations@studiopress.com>\n"
+"POT-Creation-Date: 2015-09-29 22:29:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: StudioPress <translations@studiopress.com>\n"
+"Language-Team: English <translations@studiopress.com>\n"
+"X-Generator: grunt-wp-i18n 0.4.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+#: social-circles.php:79
+msgid "Email URI"
+msgstr ""
+
+#: social-circles.php:84
+msgid "Etsy URI"
+msgstr ""
+
+#: social-circles.php:89
+msgid "Facebook URI"
+msgstr ""
+
+#: social-circles.php:94
+msgid "Flickr URI"
+msgstr ""
+
+#: social-circles.php:99
+msgid "Google+ URI"
+msgstr ""
+
+#: social-circles.php:104
+msgid "Instagram URI"
+msgstr ""
+
+#: social-circles.php:109
+msgid "LinkedIn URI"
+msgstr ""
+
+#: social-circles.php:114
+msgid "Pinterest URI"
+msgstr ""
+
+#: social-circles.php:119
+msgid "RSS URI"
+msgstr ""
+
+#: social-circles.php:124
+msgid "Tumblr URI"
+msgstr ""
+
+#: social-circles.php:129
+msgid "Twitter URI"
+msgstr ""
+
+#: social-circles.php:134
+msgid "YouTube URI"
+msgstr ""
+
+#: social-circles.php:142
+msgid "Displays select social icons."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Social Circles"
+msgstr ""
+
+#: social-circles.php:168
+msgid "Title:"
+msgstr ""
+
+#: social-circles.php:170
+msgid "Open links in new window?"
+msgstr ""
+
+#: social-circles.php:173
+msgid "Icon Font"
+msgstr ""
+
+#: social-circles.php:183
+msgid "Icon Color:"
+msgstr ""
+
+#: social-circles.php:185
+msgid "Hover Color:"
+msgstr ""
+
+#: social-circles.php:188
+msgid "Alignment"
+msgstr ""
+
+#: social-circles.php:190
+msgid "Align Left"
+msgstr ""
+
+#: social-circles.php:191
+msgid "Align Right"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.studiopress.com/plugins/social-circles"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create social media icons for the header or sidebar of your website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Brian Gardner"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.briangardner.com"
+msgstr ""
