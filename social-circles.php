@@ -6,11 +6,22 @@ Description: Create social media icons for the header or sidebar of your website
 Author: Brian Gardner
 Author URI: http://www.briangardner.com
 
-Version: 0.9.1
+Version: 0.9.2
+
+Text Domain: social-circles
+Domain Path: /languages
 
 License: GNU General Public License v2.0 (or later)
 License URI: http://www.opensource.org/licenses/gpl-license.php
 */
+
+add_action( 'plugins_loaded', 'social_circles_load_textdomain' );
+/**
+ * Load textdomain
+ */
+function social_circles_load_textdomain() {
+	load_plugin_textdomain( 'social-circles', false, plugin_basename( dirname( __FILE__ ) ) . '/languages' );
+}
 
 class Social_Circles_Widget extends WP_Widget {
 

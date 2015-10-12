@@ -3,7 +3,7 @@ Contributors: nathanrice, studiopress
 Tags: social media, social networking, social profiles
 Requires at least: 3.3
 Tested up to: 3.4.1
-Stable tag: 0.9.1
+Stable tag: 0.9.2
 
 This plugin/widget allows you to create social media icons for the header or sidebar of your website.
 
@@ -25,6 +25,11 @@ A simple widget that allows you to place links to your social media accounts. In
 No, not at this time.
 
 == Changelog ==
+
+= 0.9.2 =
+* Add textdomain loader
+* Add plugin header i18n
+* Update POT
 
 = 0.9.0 =
 * Initial Beta Release
